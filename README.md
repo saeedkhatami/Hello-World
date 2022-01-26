@@ -1,6 +1,12 @@
 # Hello-World
  hello world in the languages ​​I know
 
+## A
+- Assembly
+
+## B
+- Batch
+
 ## C
 - C
 - C++
@@ -11,3 +17,9 @@
 
 ## J
 - Java
+
+## P
+- Python
+
+## R
+- Rust
