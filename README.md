@@ -13,7 +13,7 @@
 - C#
 
 ## H
-- HTML **HTML is not a programming language!**
+- HTML **(HTML is not a programming language!)**
 
 ## J
 - Java
