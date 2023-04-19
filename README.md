@@ -8,3 +8,4 @@
 - Java
 - Python
 - Rust
+- Shell
