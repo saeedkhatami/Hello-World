@@ -6,12 +6,12 @@
 
 2. assemble the program
 
-    - `nasm -f elf64 x86_assembly.asm`
+    - `nasm -f elf64 asm.asm`
 
 3. link the object file into an executable file
 
-    - `ld -s -o x86_assembly x86_assembly.o`
+    - `ld -s -o asm asm.o`
 
 4. execute it
 
-    - `./x86_assembly`
+    - `./asm`
